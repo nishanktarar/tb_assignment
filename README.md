@@ -6,7 +6,7 @@ This app fetches a list of users from a public API and displays them in a user-f
 
 
 Clone the repository:
-git clone https://github.com/nishanktarar/user-management-app.git
+git clone https://github.com/nishanktarar/tb_assignment.git
 cd user-management-app
 
 
